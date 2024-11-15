@@ -8,7 +8,9 @@
     -   Bun: 1.1.32
     -   Node: v23.1.0
 
-Error: ![image](https://github.com/user-attachments/assets/c6c97053-c97c-44a8-b19a-2ef7f85ea73c)
+Error1: ![image](https://github.com/user-attachments/assets/c6c97053-c97c-44a8-b19a-2ef7f85ea73c)
+Error2: ![image](https://github.com/user-attachments/assets/b2694cff-7e14-4481-91a2-86aea55f25d3)
+
 
 # Astro Starter Kit: Minimal
 
