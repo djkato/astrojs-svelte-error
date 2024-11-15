@@ -1,0 +1,23 @@
+{
+    "moduleResolution": "node",
+    "module": "ESNext",
+    "target": "esnext",
+    "extends": "astro/tsconfigs/strict",
+    "compilerOptions": {
+        "jsx": "preserve",
+        "baseUrl": ".",
+        "paths": {
+            "#generated/*": ["generated/*"],
+            "#components/*": ["src/components/*"],
+            "#uni-components/*": ["src/components/universal/*"],
+            "#gql/*": ["src/gql/*"],
+            "#layouts/*": ["src/layouts/*"],
+            "#mobile-layouts/*": ["src/layouts/mobile/*"],
+            "#desktop-layouts/*": ["src/layouts/desktop/*"],
+            "#scripts/*": ["src/scripts/*"],
+            "#stores/*": ["src/stores/*"],
+            "#static/*": ["src/static/*"],
+            "#styles/*": ["src/styles/*"]
+        }
+    }
+}
