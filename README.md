@@ -1,6 +1,6 @@
 # ERROR DETAILS
 
--   I run `bun i && bun dev`
+-   I run `bun i && bun dev`, visit `http://localhost:4321/input-test`
 -   This issue appears in many places, and is hard to know what's broken when the stack trace place points to arbitrary places.
 -   I stripped all css and unnecessary stuff, this should be minimal enough?
 -   My env:
