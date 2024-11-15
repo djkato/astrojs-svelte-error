@@ -1,6 +1,6 @@
 # ERROR DETAILS
 
--   I run `bun i && bun dev`, visit `http://localhost:4321/input-test`
+-   I run `bun i && bun dev`, visit `http://localhost:4321/err1` and `http://localhost:4321/err2` to see errors
 -   This issue appears in many places, and is hard to know what's broken when the stack trace place points to arbitrary places.
 -   I stripped all css and unnecessary stuff, this should be minimal enough?
 -   My env:
@@ -8,8 +8,7 @@
     -   Bun: 1.1.32
     -   Node: v23.1.0
 
-Error:
-![image](https://github.com/user-attachments/assets/c6c97053-c97c-44a8-b19a-2ef7f85ea73c)
+Error: ![image](https://github.com/user-attachments/assets/c6c97053-c97c-44a8-b19a-2ef7f85ea73c)
 
 # Astro Starter Kit: Minimal
 
