@@ -1,13 +1,15 @@
 # ERROR DETAILS
 
 -   I run `bun i && bun dev`
-
 -   This issue appears in many places, and is hard to know what's broken when the stack trace place points to arbitrary places.
 -   I stripped all css and unnecessary stuff, this should be minimal enough?
 -   My env:
     -   OS: EndeavourOS Linux x86_64
     -   Bun: 1.1.32
     -   Node: v23.1.0
+
+Error:
+![image](https://github.com/user-attachments/assets/c6c97053-c97c-44a8-b19a-2ef7f85ea73c)
 
 # Astro Starter Kit: Minimal
 
